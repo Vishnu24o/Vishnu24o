@@ -5,8 +5,8 @@
 --------------------------------------------------------------------------------------------
 ### 💻 Tech Stack
 
-- Languages: C++, python, SQL, java, HTML, CSS
-- Tools: Git, GitHub, VS Code, MySQL
+- Languages: python, SQL, java, C++, HTML, CSS
+- Tools: VS Code, MySQL, Git, GitHub
 --------------------------------------------------------------------------------------------
 ### ⚡ Fun Facts
 
